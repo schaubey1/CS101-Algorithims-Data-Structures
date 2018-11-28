@@ -3,7 +3,6 @@
 // Assignment Name: Programming Assignment 1 -- List ADT
 // File: README.TXT
 
-//I took this class previously in Spring 2018 and reused some code from my previous submission.
 List.java
 -----------------------------------------------------------------------------
 List.java is used to construct a List ADT using a sequence of finite integers. 
