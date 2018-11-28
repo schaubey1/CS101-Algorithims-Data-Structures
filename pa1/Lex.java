@@ -1,8 +1,4 @@
-
-//Author: Sankalp Chaubey
-//cruzid: schaubey@ucsc.edu
-// Assignment Name: Programming Assignment 1 -- List ADT
-// File: Lex.java 
+//
 
 import java.util.*;
 import java.io.*;
