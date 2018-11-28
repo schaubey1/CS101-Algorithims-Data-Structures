@@ -1,5 +1,4 @@
-//Author: Sankalp Chaubey
-//cruzid: schaubey@ucsc.edu
+
 
 // Assignment Name: Programming Assignment 1 -- List ADT
 // File: README.TXT
